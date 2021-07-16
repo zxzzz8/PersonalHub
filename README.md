@@ -12,8 +12,9 @@ as well as to find and communicate with people who are interested in helping us 
 i also hope ill be able to help make some awareness to a few things in my perspective,
 
 one of them being the concept i named ''Mechanical UX'', 
+that is inspired from the ''mechanical keyboards'' term,
 
-which is a completely different UX approach
+which is a completely different UX approach,
 that goes against the ideas of the currently more trending UX approach that i nickname ''Fluid UX'', 
 
 the ''Fluid UX'' that steve jobs brought, and apple and the whole smartphones world is all around.
